@@ -1,5 +1,5 @@
 # Final Project
-_By Mee Ho, Madeline Mills, Rachel Foster
+_ By Mee Ho, Madeline Mills, Rachel Foster
 
 ## Proposal
 I. Data Source:
