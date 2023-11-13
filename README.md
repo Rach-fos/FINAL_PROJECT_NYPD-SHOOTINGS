@@ -1,4 +1,5 @@
-//PROPOSAL
+# Final Project
+_By Mee Ho, Madeline Mills, Rachel Foster
 
 I. Data Source:
 For our project, DataVoyagers will utilize the NYPD Shooting Accidents dataset. 
