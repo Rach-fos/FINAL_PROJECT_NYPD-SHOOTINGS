@@ -9,6 +9,7 @@ The dataset captures detailed information about shooting incidents in New York C
 Our decision to use this dataset stems from its societal significance, enabling us to explore patterns, trends, and potential insights into the dynamics of gun-related incidents in the city. We will pair this data with supplemental census population data to analyze the impact of population density on gun violence. 
 
 NYPD Shooting Incident Dataset: https://catalog.data.gov/dataset/nypd-shooting-incident-data-historic
+
 Change in NYC Neighborhoods: https://www.nyc.gov/site/planning/planning-level/nyc-population/2020-census.page
 
 ## Research Questions:
