@@ -1,7 +1,6 @@
 # Final Project
 By Mee Ho, Madeline Mills, Rachel Foster
 
-## References:
 
 ## Data Source:
 For our project, our group will utilize the NYPD Shooting Incident dataset from Data.gov.
