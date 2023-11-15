@@ -4,9 +4,9 @@ By Mee Ho, Madeline Mills, Rachel Foster
 ## References:
 
 ## Data Source:
-For our project, our group will utilize the NYPD Shooting Incident dataset from Data.gov and a report on the change in NYC Neighboorhoods from NYC Department of City Planning.
+For our project, our group will utilize the NYPD Shooting Incident dataset from Data.gov.
 The dataset captures detailed information about shooting incidents in New York City, including date, time, location, and other relevant attributes.
-Our decision to use this dataset stems from its societal significance, enabling us to explore patterns, trends, and potential insights into the dynamics of gun-related incidents in the city. We will pair this data with supplemental census population data to analyze the impact of population density on gun violence. 
+Our decision to use this dataset stems from its societal significance, enabling us to explore patterns, trends, and potential insights into the dynamics of gun-related incidents in the city. We will pair this data with supplemental census population data from the Department of City Planning to analyze how these incidents overlay with the population changes by location. 
 
 NYPD Shooting Incident Dataset: https://catalog.data.gov/dataset/nypd-shooting-incident-data-historic
 
