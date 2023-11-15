@@ -13,7 +13,7 @@ Our decision to use this dataset stems from its societal significance, enabling 
 - Temporal Patterns: Are there specific times of the year or seasons when shooting incidents are more prevalent?
 - Spatial Analysis: Can we identify geographical clusters or hotspots of shooting incidents?
 - Demographic Factors: Are there correlations between shooting incidents and demographic characteristics of the affected areas?
-- Incidence Over Time: Are there significant shifts in the volume of incidence in our specified time from of 2010-2022? 
+- Incidence Over Time: Are there significant shifts in the volume of incidences in our specified time from between 2010-2022? 
 
 ## Anticipated Challenges:
 
