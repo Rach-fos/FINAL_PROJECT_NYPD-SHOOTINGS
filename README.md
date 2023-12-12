@@ -14,8 +14,8 @@ Change in NYC Neighborhoods: https://www.nyc.gov/site/planning/planning-level/ny
 ## Research Questions:
 
 - Temporal Patterns: Are there specific times of the year or seasons when shooting incidents are more prevalent?
-- Spatial Analysis: Can we identify geographical clusters or hotspots of shooting incidents?
 - Demographic Factors: Are there correlations between shooting incidents and demographic characteristics of the affected areas?
+- Spatial Analysis: Can we identify geographical clusters or hotspots of shooting incidents?
 - Incidents Over Time: Are there significant shifts in the volume of incidents in our specified time from between 2010-2022? 
 
 ## Anticipated Challenges:
@@ -29,7 +29,7 @@ Change in NYC Neighborhoods: https://www.nyc.gov/site/planning/planning-level/ny
 ## Expected Results on the Final Day:
 
 - Comprehensive Descriptive Analysis: A detailed overview of shooting incidents, highlighting trends and patterns over time and space.
-- Interactive Geospatial Visualization: A dynamic map illustrating the spatial distribution of shooting incidents.
+- Interactive Geospatial Visualization: Dynamic maps illustrating the spatial distribution of shooting incidents.
 - Demographic Correlations: Insights into potential correlations between shooting incidents and demographic factors.
 - Shifts in Shooting Incidence: Graphical time series analysis of shooting incidence shifts throughout the past decade.
 
